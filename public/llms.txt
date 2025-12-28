@@ -1,0 +1,65 @@
+# Gimikim — Generative Engine Optimization Map
+
+> A מוצרי פרסום וקד"מ business.
+
+---
+
+## Pages
+
+### בית
+https://gimikim-45d71c99.zappy5.app
+Gimikim - מוצרי פרסום לכנסים ותערוכות, מתנות לעובדים ולקוחות וקד״מ לאירועים עסקיים. פתרונות יצירתיים ומקצועיים לארגונים.
+
+### מוצרים
+https://gimikim-45d71c99.zappy5.app/products
+גלו את מגוון מוצרי הפרסום לכנסים ותערוכות של Gimikim. מתנות לעובדים ולקוחות וקד״מ לאירועים עסקיים באיכות מעולה.
+
+### שירותים
+https://gimikim-45d71c99.zappy5.app/services
+שירותי Gimikim - ייעוץ מקצועי, עיצוב, הדפסה ואספקה של מוצרי פרסום לכנסים ותערוכות. פתרונות מלאים לקד״מ לאירועים עסקיים.
+
+### תיק עבודות
+https://gimikim-45d71c99.zappy5.app/portfolio
+תיק עבודות Gimikim - פרויקטים מוצלחים של מוצרי פרסום לכנסים ותערוכות, מתנות לעובדים ולקוחות וקד״מ לאירועים עסקיים.
+
+### אודות
+https://gimikim-45d71c99.zappy5.app/about
+אודות Gimikim - חברה מובילה במוצרי פרסום לכנסים ותערוכות, מתנות לעובדים ולקוחות וקד״מ לאירועים עסקיים. הסיפור שלנו והערכים שמנחים אותנו.
+
+### צור קשר
+https://gimikim-45d71c99.zappy5.app/contact
+צרו קשר עם Gimikim - מוצרי פרסום לכנסים ותערוכות, מתנות לעובדים ולקוחות וקד״מ לאירועים עסקיים. נשמח לעזור לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://gimikim-45d71c99.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gimikim-45d71c99.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gimikim-45d71c99.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Gimikim
+Gimikim is a business in the מוצרי פרסום וקד"מ industry.
+
+## Target Audience
+ארגונים, כנסים, תערוכות
+
+## Industry
+מוצרי פרסום וקד"מ
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://gimikim-45d71c99.zappy5.app/sitemap.xml
+- **Robots.txt**: https://gimikim-45d71c99.zappy5.app/robots.txt

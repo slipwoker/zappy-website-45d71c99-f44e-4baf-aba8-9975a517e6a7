@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gimikim-45d71c99.zappy5.app/sitemap.xml
